@@ -1,5 +1,6 @@
 #custom file
 config.ini
+samples/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
